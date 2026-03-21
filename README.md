@@ -1,8 +1,8 @@
-# ☀️ Weather & Time Controller
+## Weather & Time Controller
 
 **Weather & Time Controller** is an open-source FiveM client script that allows players to dynamically change the in-game time and weather through an intuitive menu system. This script provides real-time environment control with seamless integration into ESX, making it perfect for roleplay servers and custom gameplay scenarios.
 
-## ✨ Features
+## Features
 
 * [x] Change time of day with presets: Morning, Afternoon, Evening
 * [x] Change weather conditions on the fly with multiple weather types
@@ -13,7 +13,7 @@
 * [x] Minimal performance impact with efficient threads
 * [ ] Planned future enhancements and customization options
 
-## ⚙️ How it works
+## How it works
 
 The script hooks into ESX menus to provide a user interface for selecting time and weather presets. It uses native FiveM functions to override the server clock and weather, applying changes immediately and persisting them until changed again.
 
@@ -28,7 +28,7 @@ PauseClock(true)
 > \[!TIP]
 > Use the commands `/changetime` or `/changeweather` in-game to open the environment control menu quickly.
 
-## 🛠️ Installation
+## Installation
 
 1. Download or copy the `client.lua` and `config.lua` files.
 2. Place them inside a resource folder, e.g. `/resources/[local]/weather-time-controller/`.
@@ -53,13 +53,13 @@ ensure weather-time-controller
 > \[!WARNING]
 > This script requires the ESX framework (`es_extended`) to be installed and running on your server.
 
-## 🔎 Support & Security
+## Support & Security
 
 If you have any questions, suggestions, or discover any issues, please reach out to me via my [Discord Profile](https://discordlookup.com/user/1069279857072160921). I am committed to responding promptly and ensuring smooth operation of this resource.
 
 **Please report security vulnerabilities privately to avoid exposure before a fix is issued.**
 
-## 📣 Contributing
+## Contributing
 
 Contributions are highly welcome! To help improve this script:
 
@@ -68,7 +68,7 @@ Contributions are highly welcome! To help improve this script:
 * Keep pull requests focused and avoid large-scale rewrites in a single submission.
 * Refrain from submitting spam or irrelevant content.
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**, granting permission to use, modify, distribute, and sublicense freely, provided the original copyright and license notice remain intact.
 
@@ -76,6 +76,6 @@ The software is provided "as-is" without any warranty.
 
 For full license details, see the [MIT License](https://opensource.org/licenses/MIT).
 
-## 🍹 Created by [KaloudasDev](https://github.com/KaloudasDev).
+## Created by [KaloudasDev](https://github.com/KaloudasDev).
 
-If you find this project useful, please consider giving it a ⭐. Thanks for your support!
+If you find this project useful, please consider giving it a star. Thanks for your support!
