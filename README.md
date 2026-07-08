@@ -31,7 +31,7 @@ PauseClock(true)
 ## Installation
 
 1. Download or copy the `client.lua` and `config.lua` files.
-2. Place them inside a resource folder, e.g. `/resources/[local]/weather-time-controller/`.
+2. Place them inside a resource folder, e.g. `/resources/[local]/fivem-weather-control/`.
 3. Add the following to the resource’s `fxmanifest.lua` file:
 
 ```lua
@@ -47,7 +47,7 @@ shared_script 'config.lua'
 5. Enable the resource by adding this line to your `server.cfg`:
 
 ```cfg
-ensure weather-time-controller
+ensure fivem-weather-control
 ```
 
 > \[!WARNING]
