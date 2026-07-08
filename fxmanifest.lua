@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Kaloudas'
+author 'Giaxasidis'
 description 'Personal Time & Weather'
 version '1.0.0'
 
