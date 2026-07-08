@@ -53,12 +53,6 @@ ensure weather-time-controller
 > \[!WARNING]
 > This script requires the ESX framework (`es_extended`) to be installed and running on your server.
 
-## Support & Security
-
-If you have any questions, suggestions, or discover any issues, please reach out to me via my [Discord Profile](https://discordlookup.com/user/1069279857072160921). I am committed to responding promptly and ensuring smooth operation of this resource.
-
-**Please report security vulnerabilities privately to avoid exposure before a fix is issued.**
-
 ## Contributing
 
 Contributions are highly welcome! To help improve this script:
@@ -75,7 +69,3 @@ This project is licensed under the **MIT License**, granting permission to use, 
 The software is provided "as-is" without any warranty.
 
 For full license details, see the [MIT License](https://opensource.org/licenses/MIT).
-
-## Created by [KaloudasDev](https://github.com/KaloudasDev).
-
-If you find this project useful, please consider giving it a star. Thanks for your support!
